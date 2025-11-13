@@ -2,6 +2,8 @@
 
 Script `.bat` para automação de tarefas de **suporte técnico, diagnóstico e manutenção de sistemas Windows**.
 
+<img width="379" height="302" alt="image" src="https://github.com/user-attachments/assets/ea1cf56c-3695-49c9-b420-f0dceb5bcbd3" />
+
 ## ⚙️ Funcionalidades
 - Verificar e reparar disco (CHKDSK)
 - Reparo de arquivos de sistema (SFC)
