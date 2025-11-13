@@ -1,12 +1,12 @@
 @echo off
-title Menu de Reparo e Diagnostico de TI
+title Menu de Ferramentas para Reparo e Diagnostico de TI
 color 0
 
 :inicio
 cls
-echo ===============================================
-echo          MENU DE REPARO E DIAGNOSTICO DE TI
-echo ===============================================
+echo ================================================
+echo   MENU DE FERAMENTAS PARA REPARO E DIAGNOSTICO
+echo ================================================
 echo  [1]  Verificar e Reparar Disco (CHKDSK)
 echo  [2]  Reparar Arquivos de Sistema (SFC)
 echo  [3]  Limpar Arquivos Temporarios

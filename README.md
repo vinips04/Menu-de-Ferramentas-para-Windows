@@ -1,4 +1,4 @@
-# 🧰 Menu de Reparo e Diagnóstico de TI (Batch)
+# 🧰 Menu de Ferramentas para Reparo e Diagnostico do Windows (.bat)
 
 Script `.bat` para automação de tarefas de **suporte técnico, diagnóstico e manutenção de sistemas Windows**.
 
@@ -22,9 +22,9 @@ Batch Script • Windows CMD • Ferramentas nativas do sistema
 Automatizar tarefas comuns de suporte técnico, reduzindo o tempo de diagnóstico e aumentando a eficiência no atendimento.
 
 ## 📂 Estrutura
-`Menu-Reparo-TI/`
+`Menu-de-Ferramentas-para-Reparo-do-Windows/`
 
-`/docs/evidencias` `/scripts/menu_reparo.bat` 
+`/docs/evidencias` `/scripts/menu_de_ferramentas.bat` 
 
 ## 📊 Evidências
 Capturas de tela disponíveis em `/docs/evidencias/`.
@@ -36,11 +36,11 @@ Perfeito 👇 aqui está o texto completo e formatado **sem blocos de código**,
    git clone [https://github.com/vinips04/Menu-Reparo-TI-Batch.git](https://github.com/vinips04/Menu-Reparo-TI-Batch.git)
 
 2. **Acesse** a pasta do projeto:
-   cd Menu-Reparo-TI
+   cd Menu-de-Ferramentas-para-Reparo-do-Windows
 
 3. **Execute o script como Administrador:**
 
-* Clique com o botão direito em `menu_reparo.bat`
+* Clique com o botão direito em `menu_de_ferramentas.bat`
 * Selecione **“Executar como administrador”**
 
 4. **Escolha uma das opções do menu:**
