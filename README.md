@@ -22,7 +22,7 @@ Batch Script • Windows CMD • Ferramentas nativas do sistema
 Automatizar tarefas comuns de suporte técnico, reduzindo o tempo de diagnóstico e aumentando a eficiência no atendimento.
 
 ## Estrutura
-`Menu-de-Ferramentas-para-Reparo-do-Windows/`
+`Menu-de-Ferramentas-para-Windows/`
 
 `/docs/evidencias` `/scripts/menu_de_ferramentas.bat` 
 
@@ -36,7 +36,7 @@ Capturas de tela disponíveis em `/docs/evidencias/`.
 
 2. **Acesse** a pasta do projeto:
    
- `cd Menu-de-Ferramentas-para-Windows-main\scripts`
+ `cd Menu-de-Ferramentas-para-Windows\scripts`
 
 4. **Execute o script como Administrador:**
 
